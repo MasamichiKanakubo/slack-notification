@@ -3,7 +3,7 @@
 ## quick start
 
 ### environment
-- Windos11
+- Windows11
 - venv
 - python3.11.3
 
